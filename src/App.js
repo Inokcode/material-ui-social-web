@@ -1,14 +1,15 @@
 import logo from './logo.svg';
 import './App.css';
-import { Button } from '@material-ui/core';
-import { Person } from '@material-ui/icons';
+import { makeStyles } from '@material-ui/core';
+import Navbar from './components/Navbar';
+
+const useStyles = makeStyles({});
 
 function App() {
+  const classes = useStyles();
   return (
     <div className="App">
-      <Button variant="outlined" size="large" startIcon={<Person />}>
-        GBU
-      </Button>
+      <Navbar />
     </div>
   );
 }
