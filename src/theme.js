@@ -7,4 +7,7 @@ export const theme = createTheme({
       main: blue[500],
     },
   },
+  //   myButton: {
+  //     color: 'white',
+  //   },
 });
