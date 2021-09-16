@@ -1,70 +1,143 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Title
 
-## Available Scripts
+Project for Material UI responsive social Website
 
-In the project directory, you can run:
 
-### `yarn start`
+## Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**Client:** react,material UI - 4.12.3
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**Server:** No
 
-### `yarn test`
+  
+## Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- test
+- test
+- test
+  
+  
+## Screenshots
 
-### `yarn build`
+![App Screenshot](./public/screen1.png)
+![App Screenshot](./public/screen2.png)
+![App Screenshot](./public/screen3.png)
+![App Screenshot](./public/screen4.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  
+## Demo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Insert gif or link to demo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  
+## Installation
 
-### `yarn eject`
+Install my-project with npm
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Deployment
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+To deploy this project run
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+  npm run deploy
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+  
+## Run Locally
 
-## Learn More
+Clone the project
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+  git clone https://link-to-project
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Go to the project directory
 
-### Code Splitting
+```bash
+  cd my-project
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Install dependencies
 
-### Analyzing the Bundle Size
+```bash
+  npm install
+  yarn add express pg cors nodemon
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Start the server
 
-### Making a Progressive Web App
+```bash
+  npm run start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+  
+## Usage/Examples
 
-### Advanced Configuration
+```javascript
+import Component from 'my-project'
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+function App() {
+  return <Component />
+}
+```
 
-### Deployment
+  
+## Running Tests
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+To run tests, run the following command
 
-### `yarn build` fails to minify
+```bash
+  npm run test
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+  
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+  
+## Support
+
+For support, email test@test.com or join our Slack channel.
+
+  
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
+  
+## Appendix
+
+Any additional information goes here
+
+  
+## Acknowledgements
+
+ - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
+ - [Awesome README](https://github.com/matiassingers/awesome-readme)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+  
+## Lessons Learned
+
+What did you learn while building this project? What challenges did you face and how did you overcome them?
+
+  
+## Feedback
+
+If you have any feedback, please reach out to us at fake@fake.com
+
+  
+## Authors
+
+- [@Inokcode](https://github.com/Inokcode)
+
+  
